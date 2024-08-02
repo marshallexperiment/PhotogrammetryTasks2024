@@ -19,3 +19,7 @@
 - [Слайды](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/master/slides)
 - [Записи лекций](https://www.youtube.com/watch?v=dowgzvj9M6I&list=PL5p-5hHpsHBrtQQptYgT3kdt3Egb5QNci) (публикуются по мере прочтения)
 - [Прошлогодние записи лекций](https://www.youtube.com/watch?v=xXrWsCd580g&list=PL5p-5hHpsHBqFm3CQk6jT0amZjW0_2NMU&index=1)
+
+
+what should i learn:
+https://chatgpt.com/share/6c38120f-b4da-4e14-9c80-8c690e7e6f31
