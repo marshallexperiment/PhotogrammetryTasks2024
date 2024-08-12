@@ -33,6 +33,25 @@ find_package(OpenCV 4.5.1 REQUIRED)
 #     Windows: (но рекомендуется использовать Linux)
 # Скачайте этот скрипт и следуйте инструкции - https://gist.github.com/PolarNick239/18036d942ae4b9aad9f1da756ce6c845#file-buildocv-sh-L10-L33
 
+### Translation:
+
+#      Linux:
+# Download the Source code (opencv-4.5.1.zip) from here - https://github.com/opencv/opencv/releases, unzip it, and compile:
+# wget https://github.com/opencv/opencv/archive/4.5.1.zip
+# unzip 4.5.1.zip
+# cd opencv-4.5.1
+# mkdir build
+# cd build
+# cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DBUILD_LIST=features2d,highgui,flann,calib3d -DWITH_OPENEXR=ON -DBUILD_EXAMPLES=OFF -DBUILD_PERF_TESTS=OFF -DBUILD_TESTS=OFF -DCMAKE_INSTALL_PREFIX=/opt/opencv451  ..
+# make -j12
+# sudo make install
+# Specify the path to OpenCV for CMake:
+# In CLion, this is done via File->Settings->Build, Execution, Deployment->CMake->CMake options: -DOpenCV_DIR=/opt/opencv451/lib/cmake/opencv4
+# It is also recommended to add a build with optimizations and debug symbols - RelWithDebInfo - in addition to the Debug build.
+
+#     Windows: (but it is recommended to use Linux)
+# Download this script and follow the instructions - https://gist.github.com/PolarNick239/18036d942ae4b9aad9f1da756ce6c845#file-buildocv-sh-L10-L33
+
 set(SOURCES
         src/phg/sift/sift.cpp
         src/phg/sift/sift.h
