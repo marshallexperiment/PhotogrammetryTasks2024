@@ -18,7 +18,7 @@ In this repository, the course assignments for Photogrammetry are offered for st
 
 1. [Установите OpenCV 4.5.1](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/task01/CMakeLists.txt#L19-L31)
 
-1. [Install OpenCV 4.5.1](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/task01/CMakeLists.txt#L19-L31)
+1. [Install OpenCV 4.5.1](https://github.com/marshallexperiment/PhotogrammetryTasks2024/blob/Tugas-1/CMakeLists.txt)
 
 2. Выполнить задания ниже (при тестировании Github Actions CI использует GCC 11, поэтому если вы используете фичи свежее чем C++17 - есть риск что не скомпилируется, в таком случае поправьте пожалуйста)
 
