@@ -2,23 +2,23 @@
   <img width="200" src="/phg_logo.png" alt="Photogrammetry course logo">
 </p>
 
-В этом репозитории предложены задания курса по Фотограмметрии для студентов МКН/ИТМО/ВШЭ.
 
-Задания (даты будущих заданий указаны примерно):
 
-- **12.02** [Задание 1:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-1) Локальные ключевые точки SIFT (детектор и дескриптор).
-- **19.02** [Задание 2:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-2) Сопоставление ключевых точек и подсчет гомографии.
-- **04.03** [Задание 3:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-3) SFM. Оценка взаимной ориентации и положения камер, построение облака точек.
-- **25.03** [Задание 4:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-4) SFM. Ceres Solver и Bundle Adjustment.
-- **08.04** [Задание 5:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-5) Depth Maps. Patch Match.
-- **22.04** [Задание 6:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-6) Build model. Triangulation Delaunay + Graph Min-Cut.
+Assignments (dates of future tasks are approximate):
 
-Другое:
+- **February 12** [Assignment 1:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-1) Local SIFT keypoints (detector and descriptor).
+- **February 19** [Assignment 2:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-2) Keypoint matching and homography calculation.
+- **March 4** [Assignment 3:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-3) SFM. Estimation of mutual orientation and position of cameras, point cloud construction.
+- **March 25** [Assignment 4:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-4) SFM. Ceres Solver and Bundle Adjustment.
+- **April 8** [Assignment 5:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-5) Depth Maps. Patch Match.
+- **April 22** [Assignment 6:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-6) Model building. Delaunay Triangulation + Graph Min-Cut.
 
-- [Аннотация курса](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/master/slides/phg_00_course_annotation.pdf)
-- [Слайды](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/master/slides)
-- [Записи лекций](https://www.youtube.com/watch?v=dowgzvj9M6I&list=PL5p-5hHpsHBrtQQptYgT3kdt3Egb5QNci) (публикуются по мере прочтения)
-- [Прошлогодние записи лекций](https://www.youtube.com/watch?v=xXrWsCd580g&list=PL5p-5hHpsHBqFm3CQk6jT0amZjW0_2NMU&index=1)
+Other:
+
+- [Course Annotation](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/master/slides/phg_00_course_annotation.pdf)
+- [Slides](https://github.com/PhotogrammetryCourse/PhotogrammetryTasks2024/blob/master/slides)
+- [Lecture recordings](https://www.youtube.com/watch?v=dowgzvj9M6I&list=PL5p-5hHpsHBrtQQptYgT3kdt3Egb5QNci) (published as they are delivered)
+- [Last year’s lecture recordings](https://www.youtube.com/watch?v=xXrWsCd580g&list=PL5p-5hHpsHBqFm3CQk6jT0amZjW0_2NMU&index=1)
 
 
 what should i learn:
