@@ -6,12 +6,12 @@
 
 Assignments (dates of future tasks are approximate):
 
-- **February 12** [Assignment 1:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-1) Local SIFT keypoints (detector and descriptor).
-- **February 19** [Assignment 2:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-2) Keypoint matching and homography calculation.
-- **March 4** [Assignment 3:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-3) SFM. Estimation of mutual orientation and position of cameras, point cloud construction.
-- **March 25** [Assignment 4:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-4) SFM. Ceres Solver and Bundle Adjustment.
-- **April 8** [Assignment 5:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-5) Depth Maps. Patch Match.
-- **April 22** [Assignment 6:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-6) Model building. Delaunay Triangulation + Graph Min-Cut.
+- [Assignment 1:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-1) Local SIFT keypoints (detector and descriptor).
+- [Assignment 2:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-2) Keypoint matching and homography calculation.
+- [Assignment 3:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-3) SFM. Estimation of mutual orientation and position of cameras, point cloud construction.
+- [Assignment 4:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-4) SFM. Ceres Solver and Bundle Adjustment.
+- [Assignment 5:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-5) Depth Maps. Patch Match.
+- [Assignment 6:](https://github.com/marshallexperiment/PhotogrammetryTasks2024/tree/Tugas-6) Model building. Delaunay Triangulation + Graph Min-Cut.
 
 Other:
 
